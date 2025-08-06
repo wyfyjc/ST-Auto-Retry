@@ -1,0 +1,10 @@
+{
+    "display_name": "Auto Retry",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "wyfyjc",
+    "version": "1.0.0",
+    "homePage": "https://github.com/SillyTavern/SillyTavern"
+}
